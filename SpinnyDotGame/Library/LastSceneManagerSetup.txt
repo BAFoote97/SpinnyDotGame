@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SpinnydotGame.unity
+- path: C:/Users/student.AII/Documents/GitHub/StarfighterGame/Starfighter Unity Game/Assets/Scenes/Testing/TestScene1.unity
   isLoaded: 1
   isActive: 1
